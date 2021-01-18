@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComplexLayoutApplication</string>
+    <string name="txt_desc">A ConstraintLayout is a ViewGroup which allows you to Position and size Views in a flexible way. It is basically RelativeLayout on Steriods. The Views will be positioned and sized w.r.t other Views with the Use of Constraints</string>
+</resources>
